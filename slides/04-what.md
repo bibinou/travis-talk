@@ -5,7 +5,7 @@
 # What?
 * Open Source
 * Continuous Integration
-* Ruby Community
+* Open Source Community
 
 !SLIDE
 # Have a look!
