@@ -48,11 +48,6 @@
 
 !SLIDE bullets
 # The Future
-* Node.js
-* Clojure
-
-!SLIDE bullets
-# The Future
-* Erlang!
-
-
+* PHP
+* Two french people from Lyon (@ubermuda and @loicfrering) are working
+  on it !
