@@ -2,14 +2,16 @@
 # About us
 
 !SLIDE bullets
-# Josh Kalderimis
-* @joshkalderimis
-* http://github.com/joshk
-* \#28 Rails contributor
+# Franck Verrot
+* @cesariogw
+* http://github.com/cesario
 
 !SLIDE bullets
-# Sven Fuchs
-* @svenfuchs
-* http://github.com/svenfuchs
-* Ruby I18n project lead
+# Damien Mathieu
+* @dmathieu
+* http://github.com/dmathieu
 
+!SLIDE bullets
+# Evome
+* http://evome.fr
+* Ruby, TDD and Agile Methods consulting and training
