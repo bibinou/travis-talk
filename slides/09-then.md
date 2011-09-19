@@ -24,6 +24,11 @@
 * Github Fork Queue
 * Webhooks
 
+!SLIDE bullets done
+# The Future
+* Github Fork Queue
+* Webhooks
+
 !SLIDE bullets
 # The Future
 * isit[ruby19|jruby].com
