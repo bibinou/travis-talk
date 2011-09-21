@@ -3,18 +3,6 @@
 
 !SLIDE bullets
 # Facts!
-* 1,200 Repositories
-* 20,000 Commits
-* 80,000 Builds
-
-!SLIDE bullets strike-through
-# Facts!
-* 1,200 Repositories
-* 20,000 Commits
-* 80,000 Builds
-
-!SLIDE bullets
-# Facts!
 * 1,700 Repositories
 * 30,000 Commits
 * 117,000 Builds
