@@ -73,3 +73,14 @@
   ![s5](../images/banners/site5-logo.jpeg)
   ![re](../images/banners/redistogo.png)
 
+!SLIDE bullets contributors
+# Contributors
+* ![alex](../images/team/alex.png)
+  ![antares](../images/team/antares_.jpg)
+  ![bai](../images/team/bai.jpeg)
+  ![charper](../images/team/charper.jpeg)
+  ![damien](../images/team/damien.jpeg)
+  ![franck](../images/team/franck.png)
+  ![fritzek](../images/team/fritzek.jpeg)
+  ![josh](../images/team/josh.jpeg)
+  ![sven](../images/team/sven.jpeg)
