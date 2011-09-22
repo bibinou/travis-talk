@@ -15,3 +15,8 @@
 # Evome
 * http://evome.fr
 * Ruby, TDD and Agile Methods consulting and training
+
+!SLIDE bullets
+# Thanks Sven and Josh
+* ![sven](../images/team/sven.jpeg)
+  ![josh](../images/team/josh.jpeg)
