@@ -43,14 +43,16 @@
 
 !SLIDE bullets
 # Today
+* Ruby
 * Erlang
-* Closujre
+* Clojure
 * Node.js
 
 !SLIDE bullets
 # Real soon
 * Python
 * PHP
+* Cocoa
 * ?
 
 !SLIDE bullets center tweets
