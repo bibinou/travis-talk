@@ -85,4 +85,5 @@
   ![franck](../images/team/franck.png)
   ![fritzek](../images/team/fritzek.jpeg)
   ![josh](../images/team/josh.jpeg)
+  ![steveklabnik](../images/team/steveklabnik.jpeg)
   ![sven](../images/team/sven.jpeg)
