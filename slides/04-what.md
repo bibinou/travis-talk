@@ -3,7 +3,7 @@
 
 !SLIDE bullets
 # What?
-* Open Source
+* Written in ruby
 * Continuous Integration
 * Open Source Community
 
