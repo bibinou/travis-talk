@@ -50,10 +50,7 @@
 
 !SLIDE bullets
 # Real soon
-* Python
-* PHP
-* Cocoa
-* ?
+* Your language !
 
 !SLIDE bullets center tweets
 ![img](../images/tweets/mislav.png)
