@@ -20,3 +20,7 @@
 # Thanks Sven and Josh
 * ![sven](../images/team/sven.jpeg)
   ![josh](../images/team/josh.jpeg)
+
+!SLIDE bullets
+# irc.freenode.net#travis
+# @travisci
