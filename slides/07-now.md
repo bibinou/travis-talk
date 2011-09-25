@@ -25,12 +25,12 @@
 
 !SLIDE bullets gosh
 # GOSH
-* github-services bundler slimgems railscasts diaspora couch_potato active_admin
-* simple_form ruby-on-rails-tmbundle liquid execjs jenkins.rb nifty-generators active_merchant
-* grape request-log-analyzer refinerycms koala linguist htty vcr nested_form oauth2 savon ruby-warrior
-* communityengine i18n uglifier engineyard multi_json phony octokit pusher-gem parslet split globalize3
-* cloudist squeel russian themes_for_rails whois make_resourceful routing-filter girl_friday tire
-* rack-protection boom blather linkedin fabrication money curb restfulie chunky_png slop
+* github-services bundler slimgems railscasts diaspora couch\_potato active\_admin
+* simple\_form ruby-on-rails-tmbundle liquid execjs jenkins.rb nifty-generators active\_merchant
+* grape request-log-analyzer refinerycms koala linguist htty vcr nested\_form oauth2 savon ruby-warrior
+* communityengine i18n uglifier engineyard multi\_json phony octokit pusher-gem parslet split globalize3
+* cloudist squeel russian themes\_for\_rails whois make\_resourceful routing-filter girl\_friday tire
+* rack-protection boom blather linkedin fabrication money curb restfulie chunky\_png slop
 * faraday ripple serve celluloid stamp broadcast forem mongoid-tree tabtab
 
 !SLIDE bullets
